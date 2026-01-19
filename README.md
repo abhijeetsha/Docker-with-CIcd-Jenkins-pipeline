@@ -1,4 +1,4 @@
-# Docker-with-CIcd-pipelin
+# Docker-with-CIcd-pipeline
 ## MEGA PROJECT: Dockerized Microservices Platform (Production-Grade)
 ### 🧠 Project Overview
 ## 📌 Application
